@@ -1,7 +1,7 @@
 ## `droptainer` - drop apptainer on supercomputerz
 
 ### Usage
-1. Go to the releases page and download `droptainer.tar.gz`
+1. Go to the [releases page](https://github.com/unkaktus/droptainer/releases) and download `droptainer.tar.gz`
 2. SCP the archive to your favorite supercomp.
 3. Extract it and run `droptainer` script:
 
