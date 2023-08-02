@@ -1,5 +1,31 @@
 ## `droptainer` - drop apptainer on supercomputerz
 
+_**Phased out in favor of installing `apptainer` using `mamba` and [`mitten`](https://github.com/unkaktus/mitten):**_
+
+```shell
+mitten supercomp
+mamba install apptainer
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Usage
 1. Go to the [releases page](https://github.com/unkaktus/droptainer/releases) and download `droptainer.tar.gz`
 2. SCP the archive to your favorite supercomp.
